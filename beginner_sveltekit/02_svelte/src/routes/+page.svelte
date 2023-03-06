@@ -1,12 +1,1 @@
-<div class="links-container">
-	<a href="/reactivity">reactivity</a>
-	<a href="/element-directive">element directive</a>
-	<a href="/conditions-loops">conditions and loops</a>
-</div>
-
-<style>
-	.links-container {
-		display: flex;
-		flex-direction: column;
-	}
-</style>
+<h1 class="text-3xl font-bold underline">Hello world!</h1>
